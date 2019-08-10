@@ -1,0 +1,2 @@
+this folder should contain data file from kaggle data.
+in this project, it should contain train.csv test.csv.
